@@ -12,3 +12,4 @@ if trans = 0
 	}
 }
 /*room_goto (targetRoom);
+HERE LIES A CHANGE STEPHAN MADE JUST NOW
