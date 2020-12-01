@@ -13,4 +13,4 @@ if trans = 0
 }
 /*room_goto (targetRoom);
 
-Is the updating working? Now is it working
+Is the updating working?
