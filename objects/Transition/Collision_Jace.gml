@@ -12,3 +12,5 @@ if trans = 0
 	}
 }
 /*room_goto (targetRoom);
+
+Is the updating working?
