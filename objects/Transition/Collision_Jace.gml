@@ -12,4 +12,3 @@ if trans = 0
 	}
 }
 /*room_goto (targetRoom);
-//HIII NOAH!!!!
