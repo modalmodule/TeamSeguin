@@ -60,7 +60,7 @@
     "eventStubScript": null,
     "parent": {"name":"JaceS","path":"sprites/JaceS/JaceS.yy",},
     "resourceVersion": "1.3",
-    "name": "",
+    "name": "JaceS",
     "tags": [],
     "resourceType": "GMSequence",
   },

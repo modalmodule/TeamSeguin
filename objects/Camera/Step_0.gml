@@ -17,6 +17,10 @@ camera_set_view_pos(cam,x-view_w_half,y-view_h_half);
 
 if (layer_exists("City"))
 {
-	layer_x("City",x/1.4);
+	layer_x("City",x/1.25);
 }
 
+if (layer_exists("City2"))
+{
+	layer_x("City2",x/1.1);
+}

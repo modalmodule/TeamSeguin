@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 145,
-  "bbox_top": 7,
-  "bbox_bottom": 73,
+  "bbox_right": 79,
+  "bbox_top": 2,
+  "bbox_bottom": 89,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 146,
-  "height": 74,
+  "width": 80,
+  "height": 90,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,10 +24,10 @@
   "gridX": 2,
   "gridY": 16,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"1d2dba2e-dbcd-4bea-8fb7-4140a0561046","path":"sprites/sprite5/sprite5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"1d2dba2e-dbcd-4bea-8fb7-4140a0561046","path":"sprites/sprite5/sprite5.yy",},"LayerId":{"name":"b2237ff9-111e-4c5b-a41f-d595d60c03fc","path":"sprites/sprite5/sprite5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"1d2dba2e-dbcd-4bea-8fb7-4140a0561046","path":"sprites/sprite5/sprite5.yy",},"LayerId":{"name":"2a117eee-6551-467d-93e3-a52fd2d7e504","path":"sprites/sprite5/sprite5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sprite5","path":"sprites/sprite5/sprite5.yy",},"resourceVersion":"1.0","name":"1d2dba2e-dbcd-4bea-8fb7-4140a0561046","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"afbab98b-7c79-423b-b1e2-52f2ffaa591d","path":"sprites/sprite5/sprite5.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"afbab98b-7c79-423b-b1e2-52f2ffaa591d","path":"sprites/sprite5/sprite5.yy",},"LayerId":{"name":"b2237ff9-111e-4c5b-a41f-d595d60c03fc","path":"sprites/sprite5/sprite5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"afbab98b-7c79-423b-b1e2-52f2ffaa591d","path":"sprites/sprite5/sprite5.yy",},"LayerId":{"name":"2a117eee-6551-467d-93e3-a52fd2d7e504","path":"sprites/sprite5/sprite5.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sprite5","path":"sprites/sprite5/sprite5.yy",},"resourceVersion":"1.0","name":"afbab98b-7c79-423b-b1e2-52f2ffaa591d","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"sprite5","path":"sprites/sprite5/sprite5.yy",},
@@ -42,7 +42,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"34590a66-a92d-4a37-842e-69be19dddc85","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1d2dba2e-dbcd-4bea-8fb7-4140a0561046","path":"sprites/sprite5/sprite5.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d3c015a3-b87e-40dd-b244-6c682d53ae4c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"afbab98b-7c79-423b-b1e2-52f2ffaa591d","path":"sprites/sprite5/sprite5.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -61,7 +61,7 @@
     "eventStubScript": null,
     "parent": {"name":"sprite5","path":"sprites/sprite5/sprite5.yy",},
     "resourceVersion": "1.3",
-    "name": "",
+    "name": "sprite5",
     "tags": [],
     "resourceType": "GMSequence",
   },
