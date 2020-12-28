@@ -33,7 +33,7 @@
     "spriteId": {"name":"JaceS20","path":"sprites/JaceS20/JaceS20.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 15.0,
+    "playbackSpeed": 16.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
